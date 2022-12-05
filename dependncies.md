@@ -1,0 +1,18 @@
+### Dependencies
+
+```
+- Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
+
+- npm 6.14.8 (LTS) or more recent
+
+- AWS CLI
+
+- A RDS database running Postgres.
+
+- A S3 bucket for hosting uploaded pictures.
+
+- circleCi
+
+- postgres for database
+
+```
