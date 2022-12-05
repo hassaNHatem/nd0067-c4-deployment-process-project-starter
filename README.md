@@ -33,8 +33,10 @@ this site is hosted via s3 on http://hassanlity2.s3-website-us-east-1.amazonaws.
 
 ## architecture diagram
 
-    (./screenshots/digram.PNG)
+    digram(screenshots/digram.PNG)
 
 ## pipe line process
 
-    (./screenshots/circlecibuild.PNG)
+    (screenshots/circlecibuild.PNG)
+
+[License](LICENSE.txt)
