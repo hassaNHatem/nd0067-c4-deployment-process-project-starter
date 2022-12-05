@@ -29,7 +29,7 @@ Provision the necessary AWS services needed for running the application:
 
 ## hosted site
 
-this site is hosted via s3 on http://hassanlity2.s3-website-us-east-1.amazonaws.com/home
+this site is hosted via s3 on http://hassanlity2.s3-website-us-east-1.amazonaws.com
 
 ## architecture diagram
 
